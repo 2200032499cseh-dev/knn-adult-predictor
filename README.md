@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>KNN Adult Income Predictor</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 40px; background: #f9f9f9; }
-    code, pre { background: #eee; padding: 5px; border-radius: 4px; }
-    h1, h2, h3 { color: #2c3e50; }
-    ul { margin-left: 20px; }
-  </style>
-</head>
+
 <body>
 
 <h1>🧠 KNN Adult Income Predictor</h1>
